@@ -1,9 +1,8 @@
 # FAQ
 
-Q) Why powershell
+Q) Why powershell?
 
-A) because of who I am as a person and because sed is hard to learn in the limited amount of free time I have.
-... but mostly because of who I am as a person.
+A) because of who I am as a person and because sed is hard to learn in the limited amount of free time I have. Also sed is _infuriating_
 I'll accept any PRs if someone wants to make a sed version.
 
 Q) What does all this do anyway?
