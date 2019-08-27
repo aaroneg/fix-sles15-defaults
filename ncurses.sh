@@ -1,0 +1,1 @@
+export NCURSES_NO_UTF8_ACS=1
